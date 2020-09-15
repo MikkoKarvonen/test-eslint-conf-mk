@@ -1,7 +1,6 @@
 {
-  "name": "test-eslint-conf-mk",
+  "name": "@mikkokarvonen/test-eslint-conf-mk",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,14 @@
     "eslint": "^7.9.0",
     "eslint-config-prettier": "^6.11.0",
     "prettier": "^2.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikkoKarvonen/test-eslint-conf-mk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MikkoKarvonen/test-eslint-conf-mk/issues"
+  },
+  "homepage": "https://github.com/MikkoKarvonen/test-eslint-conf-mk#readme",
+  "description": ""
 }
